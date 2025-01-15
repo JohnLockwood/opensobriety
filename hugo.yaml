@@ -1,0 +1,16 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'OpenSobriety.org'
+theme: 'tailbliss'
+_merge: false
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
