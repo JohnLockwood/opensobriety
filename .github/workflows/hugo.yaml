@@ -48,7 +48,7 @@ jobs:
       - name: Setup node dependencies for tailbliss
         id: setup_node
         run: pushd themes/tailbliss && npm install && popd && \
-             node install -g postcss
+             npm install -g postcss
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
