@@ -48,9 +48,12 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Install postcss-cli
+        id: postcss
+        run: npm install -g postcss-cli
       - name: Setup node dependencies for tailbliss
         id: setup_node
-        run: pushd themes/tailbliss && sudo npm install postcss-cli && npm install && popd
+        run: pushd themes/tailbliss && npm install && popd
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
