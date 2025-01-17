@@ -63,6 +63,9 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Copy CNAME
+        id: copy_cname
+        run: cp CNAME ./public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
