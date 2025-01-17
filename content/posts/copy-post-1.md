@@ -1,16 +1,21 @@
 ---
-title: "News Post 2"
-date: 2022-04-18T11:10:36+08:00
+title: "Something Something Something"
+date: 2024-01-15T11:10:36+08:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
-authorimage: ../assets/images/global/author.webp
-categories: News
-tags: News
+featured_image: ../assets/images/open-door.jpg
+summary: This is just a sample post.
+description: A sample is a sample is a sample
+author: John L.
+authorimage: ../assets/images/JohnLockwood.jpeg
+categories: 
+  - Blog
+  - Meetings
+tags: 
+  - Blog
+  - Meetings
 ---
+
 __Advertisement :smile:__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
@@ -186,7 +191,7 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- 19^th^
+- X^2^
 - H~2~O
 
 
@@ -255,3 +260,4 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+

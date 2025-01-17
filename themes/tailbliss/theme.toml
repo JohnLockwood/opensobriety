@@ -9,8 +9,8 @@ homepage = "https://github.com/nusserstudios/tailbliss"
 # If you have a running demo of the theme.
 demosite = "https://tailbliss.netlify.app/"
 
-tags = ["blog", "foo", "tailwind", "tailwindcss", "dark", "light", "responsive", "minimal", "portfolio", "company", "gallery", "personal" ]
-features = ["blog", "categories", "webp", "tailwind3", "alpinejs"]
+tags = ["blog", "meetings", "tailwind", "tailwindcss", "dark", "light", "responsive", "minimal", "portfolio", "company", "gallery", "personal" ]
+features = ["blog", "meetings", "categories", "webp", "tailwind3", "alpinejs"]
 
 min_version = "0.104.0"
 

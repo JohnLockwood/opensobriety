@@ -2,15 +2,98 @@ baseURL: ''
 languageCode: 'en-us'
 title: 'OpenSobriety.org'
 theme: 'tailbliss'
-_merge: false
+_merge: true
 
+  
 menu:
   main:
     - identifier: home
       name: Home
       url: /
       weight: 10
+    - identifier: meetings
+      pre: dropdown
+      name: Meetings
+      url: /meetings/
+      weight: 20
     - identifier: about
       name: About
       url: /about/
+      weight: 30
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 40
+
+  meetings:
+    - identifier: calendar
+      name: Meeting Calendar
+      url: /meetings/
       weight: 20
+    - identifier: add_meeting
+      name: Start a Meeting
+      url: /start_meeting/
+      weight: 30
+
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /categories/blog/
+      weight: 20
+    # - identifier: contact
+    #   name: Contact
+    #   url: /contact/
+    #   weight: 50
+      
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        disable: false
+        apostrophe: '&rsquo;'
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+params:
+  author: John L.
+  authorimage: ./assets/images/JohnLockwood.jpeg
+  description: "OpenSobriety"
+  moto: "Meetings Should Be Easy"
+  disable_theme_toggle: false
+  disable_stay_uptodate: false
+  og_image: /images/tailbliss-cover.png
+
+
