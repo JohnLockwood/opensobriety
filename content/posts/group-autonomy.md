@@ -1,6 +1,6 @@
 ---
 title: "Your Group Run Your Way"
-date: 2024-01-15T11:10:36+08:00
+date: 2025-01-15T11:10:36+08:00
 draft: false
 language: en
 # featured_image: ../assets/images/featured/featured-img-placeholder.png

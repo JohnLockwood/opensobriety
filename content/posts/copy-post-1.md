@@ -1,9 +1,9 @@
 ---
 title: "Something Something Something"
 date: 2024-01-15T11:10:36+08:00
-draft: false
+draft: true
 language: en
-featured_image: ../assets/images/open-door.jpg
+featured_image: ../assets/images/featured/open-door.jpg
 summary: This is just a sample post.
 description: A sample is a sample is a sample
 author: John L.
