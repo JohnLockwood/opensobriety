@@ -25,9 +25,7 @@ In fairness, this meeting's introductions were at least reasonably conversationa
 
 Being a decent person and not wanting to cause any trouble, I've never inquired of my virtue-signalling friends whether they are planning to return their conquered land to anybody. As for me, a county in North Carolina says the house I live in belongs to me and my wife, and that's good enough for me. If the goal is to demonstrate my moral failings, we have plenty of more freshly-picked sins than the history of Western colonialism.
 
-Rituals and ceremonies.
-
-Other introduction ceremonies prevail in other meetings, of course.  AA's famous custom calls for introducing yourself with your first name followed by "and I'm an alcoholic."  Some people like to mix it up by being a "grateful recovering alcoholic" instead of just a plain vanilla one.  Some folks will say they are a "person in recovery." Secular AA often takes the bold step of letting you introduce yourself "any way you want."
+Other introduction ceremonies prevail in other meetings, of course.  AA's famous custom calls for introducing yourself with your first name followed by "and I'm an alcoholic."  Some people like to mix it up by being a "grateful recovering alcoholic" instead of just a plain vanilla one.  Some folks will say they are a "person in recovery." Secular AA often takes the bold step of letting you introduce yourself "any way you want."  (Of course, it's only "bold" in the context of other meetings. To start a real life conversation, we're used to doing it any which way or not at all.)
 
 Generally speaking, AA gets by on less ceremony as a percentage of the meeting than Recovery Dharma, because those guided meditations take up a lot of time.  AA does have its ceremonies, however, and the sheer number of them is reminiscent of a Catholic mass at times.  One group near me has, by way of opening / closing ceremonies:
 
@@ -49,17 +47,19 @@ As long as this list is, it goes by pretty quickly compared to Recovery Dharma, 
 
 Many meetings have explicit or implicit talking rules and conventions. Some of these are just common sense, like imposing time limits so more people can get a turn. Others no doubt were well-intended efforts to prevent bullying and abuse, but that have the effect of making the meeting less like a real conversation.  Some of these include:
 
-* No crosstalk, or addressing anyone in attendance by name.
+* No crosstalk (commenting explicitly on other people's "shares"), or addressing anyone in attendance by name.  (In short, whatever a conversation is, you're not here to have one.)
 * Use "I" statements.
 * "Share the message, not the mess."
 * Confine your discussion to your problems with alcohol
 
 LifeRing meetings, interestingly enough, have dispensed with the no-crosstalk rule.  The flip side is that they enforce the "I" statement rule a bit more heavily, but on balance, LifeRing meetings tend to be more like natural conversations.  They also are quite low on ceremony generally speaking.  As a result, these meetings are more like a chat among friends and less like a day in a church or a Buddhist temple.
 
+One secular meeting I'm particularly fond of has almost no ceremony, though sometimes there's a preamble at the end and the selection of a chairperson and topic for next week's meeting.  We're as likely as not to forget to do either thing, making the meeting a conversation from start to finish.
+
 ## The Role of Ritual and Ceremony
 
 I haven't been able to find a precise definition of ritual and ceremony.  However, as the Supreme Court Justice, Potter Stewart, said of obscenity, "I know it when I see it."  What most of the definitions I have found seem to agree on, however, is that they often occur in sacred contexts, that is, they have a religious aspect.  Seen from this light, it makes sense that they feature prominently in crypto-religious meetings like AA and Recovery Dharma, and are less important in Secular AA and LifeRing.
 
-Of course, none of this preference for conversation over ritual speaks in any way to the preferences of Open Sobriety, as this sort of thing is left to individual conscience and group consensus. It does help to explain something of our origin story, however, as it grew out of discussions a friend and I had after being involved in a LifeRing meeting, along the lines of, "Why can't we have a meeting where anything goes?"
+Of course, none of this preference for conversation over ritual speaks in any way to the preferences of Open Sobriety, as this sort of thing is left to individual conscience and group consensus. It does help to explain something of our origin story, however, as it grew out of discussions a friend and I had after being involved in a LifeRing meeting, along the lines of, "Why can't we have a meeting where anything goes, with no central office dictating how we run it?"
 
 Why, indeed?
